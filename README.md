@@ -1,5 +1,5 @@
 # SWIM APP
-_________________________________________
+
 # Informazioni progetto:
 
 Nome: Kevin Berberolli
