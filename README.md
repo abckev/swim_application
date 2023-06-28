@@ -15,7 +15,16 @@ L’applicazione consiste nel pianificare i propri allenamenti di nuoto ed è co
 
 -	Home: mostra una semplice schermata con una breve descrizione motivazionale di ciò che si può fare nell’applicazione e un’immagine.
 -	Todos: schermata principale che mostra la lista degli allenamenti da fare.
--	Todos completed: schermata che mostra gli allenamenti segnati come completati
--	Logout: schermata che mostra il nome utente con cui abbiamo fatto il login e dà la possibilità di effettuare il logout
+-	Todos completed: schermata che mostra gli allenamenti segnati come completati.
+-	Logout: schermata che mostra il nome utente con cui abbiamo fatto il login e dà la possibilità di effettuare il logout.
+
+# Casi d’uso
+
+L’utente all’avvio dell’applicazione dovrà effettuare un login con la combinazione e-mail/password con le seguenti credenziali: e-mail: prova@gmail.com , password: password.
+Una volta inserite correttamente le credenziali l’applicazione si presenta con una pagina introduttiva e si potrà navigare nell’applicazione cambiando le schermate tramite la barra di navigazione nella parte bassa dello schermo del dispositivo che si sta utilizzando.
+Quando l’utente aprirà la seconda schermata dalla barra di navigazione potrà cominciare ad utilizzare l’applicazione vera e propria, cominciando ad aggiungere gli allenamenti che vorrà eseguire oppure modificarli o eliminarli scrollando verso destra o sinistra il riquadro dell’allenamento che si vuole modificare o eliminare. Se l’utente deciderà di modificare un allenamento si aprirà una nuova schermata con le caratteristiche già inserite precedentemente pronte per essere sostituite.
+Gli allenamenti che invece si riterranno come completati si potranno contrassegnare come “completati” spuntando la check box del rispettivo allenamento, e quel terminato allenamento completato lo si potrà ritrovare nella terza schermata, sempre raggiungibile dalla barra di navigazione sottostante.
+Infine, quando l’utente vorrà chiudere l’applicazione potrà eseguire il logout nell’ultima schermata, dove potrà controllare anche con quale e-mail ha eseguito il login inizialmente.
+
 
 
