@@ -63,7 +63,8 @@ Gli strumenti utilizzati sono stati:
 -	L’interfaccia risulta adattabile ai vari display dei dispositivi (mobile, tablet, desktop).
 -	Sono stati utilizzati provider per permettere di accedere e propagare lo stato più facilmente.
 -	L’autenticazione e la persistenza dei dati sono stati effettuati tramite l’utilizzo della piattaforma Firebase.
-  
+  ![9](https://github.com/abckev/swim_application/assets/49757916/2f645a82-c7af-435a-8f74-6fd3af320732)
+  ![10](https://github.com/abckev/swim_application/assets/49757916/b7fe58e0-18e9-4a70-8d56-d7e34aec6ccc)
 -	Il progetto è stato strutturato separando per quanto possibile la parte grafica dalla parte logica, creando cartelle differenti contenenti i widget, funzioni, stati e modelli.
 
 # Test
