@@ -1,6 +1,6 @@
-# swim_application
-
-Informazioni progetto:
+# SWIM APP
+_________________________________________
+# Informazioni progetto:
 
 Nome: Kevin Berberolli
 Matricola: 321060
