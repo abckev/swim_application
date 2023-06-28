@@ -28,9 +28,9 @@ Infine, quando l’utente vorrà chiudere l’applicazione potrà eseguire il lo
 
 # Esperienza Utente
 
-L’esperienza per l’utente è molto chiara ed intuitiva. È stata aggiunto un BottomNavigationBar per semplificarne la navigazione tra le varie schermate. 
+L’esperienza per l’utente (UX) è molto chiara ed intuitiva. È stata aggiunto un BottomNavigationBar per semplificarne la navigazione tra le varie schermate. 
 
-Per l’interfaccia utente sono stati utilizzati dei colori che potessero rispecchiare i colori della piscina e per essere di facile intuito dell’utente su quale pagina si stesse trovando in un determinato momento.
+Per l’interfaccia utente (UI) sono stati utilizzati dei colori che potessero rispecchiare i colori della piscina e per essere di facile intuito dell’utente su quale pagina si stesse trovando in un determinato momento.
 
 
 # Strumenti utilizzati
