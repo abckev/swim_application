@@ -32,8 +32,26 @@ L’esperienza per l’utente (UX) è molto chiara ed intuitiva. È stata aggiun
 
 Per l’interfaccia utente (UI) sono stati utilizzati dei colori che potessero rispecchiare i colori della piscina e per essere di facile intuito dell’utente su quale pagina si stesse trovando in un determinato momento.
 
-# 1
+# Schermata Login
 ![1](https://github.com/abckev/swim_application/assets/49757916/362a61c0-86d5-4643-a627-60134a5336eb)
+
+# Schermata Home
+![2](https://github.com/abckev/swim_application/assets/49757916/359e163a-8b1b-46ae-89d9-df45a084e19b)
+
+# Schermata Todo
+![3](https://github.com/abckev/swim_application/assets/49757916/20d0d5b6-dc76-47d4-8521-6a4b9cae0342)
+
+# Schermata Todo Completed
+![5](https://github.com/abckev/swim_application/assets/49757916/6fb37a09-efd8-4306-8b2e-71f9ba6c5cac)
+
+# Schermata Logout
+![6](https://github.com/abckev/swim_application/assets/49757916/ae46f7b6-627d-466e-9aa8-f72eb7d96e3d)
+
+# Schermata tablet layout
+![7](https://github.com/abckev/swim_application/assets/49757916/14b1d70e-7bfd-4124-8e3b-523fb05a5c6b)
+
+# Schermata desktop layout
+![8](https://github.com/abckev/swim_application/assets/49757916/6aa64f0e-9c0f-4080-8079-44ca76e91a0f)
 
 
 
@@ -45,6 +63,7 @@ Gli strumenti utilizzati sono stati:
 -	L’interfaccia risulta adattabile ai vari display dei dispositivi (mobile, tablet, desktop).
 -	Sono stati utilizzati provider per permettere di accedere e propagare lo stato più facilmente.
 -	L’autenticazione e la persistenza dei dati sono stati effettuati tramite l’utilizzo della piattaforma Firebase.
+  
 -	Il progetto è stato strutturato separando per quanto possibile la parte grafica dalla parte logica, creando cartelle differenti contenenti i widget, funzioni, stati e modelli.
 
 # Test
