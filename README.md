@@ -32,6 +32,11 @@ L’esperienza per l’utente (UX) è molto chiara ed intuitiva. È stata aggiun
 
 Per l’interfaccia utente (UI) sono stati utilizzati dei colori che potessero rispecchiare i colori della piscina e per essere di facile intuito dell’utente su quale pagina si stesse trovando in un determinato momento.
 
+# 1
+![1](https://github.com/abckev/swim_application/assets/49757916/362a61c0-86d5-4643-a627-60134a5336eb)
+
+
+
 
 # Strumenti utilizzati
 
